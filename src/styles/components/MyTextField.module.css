@@ -1,0 +1,7 @@
+.MyTextField {
+    @apply bg-blue-400;
+    @apply py-2 px-3 rounded-full;
+    @apply text-blue-50 placeholder-blue-200;
+    @apply w-full;
+    @apply focus:outline-none;
+}

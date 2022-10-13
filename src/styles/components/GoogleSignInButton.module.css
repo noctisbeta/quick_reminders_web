@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.GoogleSignInButton {
+    @apply bg-white flex text-white h-[40px] justify-center items-center px-[8px] w-fit self-center;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0,0,0,0.54);
+    font-size: 14px;
+}
