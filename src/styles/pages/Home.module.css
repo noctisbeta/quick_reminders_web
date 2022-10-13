@@ -1,4 +1,4 @@
 .Home {
-    @apply h-screen w-screen flex flex-col;
+    @apply h-screen w-screen flex flex-col p-5;
     @apply bg-gradient-to-b from-blue-300 to-blue-600;
 }
